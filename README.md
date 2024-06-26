@@ -1,16 +1,19 @@
-## Hi there 👋
+### Olá! Eu sou o Gustavo Bento 🖐️
 
-<!--
-**gustavo-bento-teles/gustavo-bento-teles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.mtl_s/)
 
-Here are some ideas to get you started:
+![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=gruvbox)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que compreendo
+
+<div style="dsiplay: inline_block"><br/>
+    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+</div><br/>
+
+## Estou estudando
+
+<div style="dsiplay: inline_block"><br/>
+    <img aling="center" alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img aling="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div><br/>
