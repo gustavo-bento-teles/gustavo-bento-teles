@@ -10,6 +10,12 @@
     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div><br/>
 
+## Tecnologias que tenho um breve entendimento
+
+<div style="dsiplay: inline_block"><br/>
+    <img aling="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+</div><br/>
+
 ## Estou estudando
 
 <div style="dsiplay: inline_block"><br/>
