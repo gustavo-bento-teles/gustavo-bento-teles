@@ -13,7 +13,7 @@
 
 ## Tecnologias que tenho um bom entendimento
 
-div style="dsiplay: inline_block"><br/>
+<div style="dsiplay: inline_block"><br/>
      <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img aling="center" alt="sqlite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </div><br/>
