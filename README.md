@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Gustavo Bento 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.mtl_s/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](gustavobentoteles379@gmail.com)
 
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=gruvbox)
 ![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact)
