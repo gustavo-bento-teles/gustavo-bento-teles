@@ -1,10 +1,11 @@
 ### Olá! Eu sou o Gustavo Bento 🖐️
 
-[!][Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.mtl_s/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.mtl_s/)
 
-[!][Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=gruvbox)
-[!][Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact)
-<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="gustavo-bento-teles-9093a42bb" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gustavo-bento-teles-9093a42bb?trk=profile-badge">Gustavo Bento Teles</a></div>
+[![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=gruvbox)
+[![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact)
+[![LinkedIn](https://br.linkedin.com/in/gustavo-bento-teles-9093a42bb?trk=profile-badge")
+<div class="badge-base LI-profile-badge" data-locale="pt_BR" data-size="large" data-theme="light" data-type="VERTICAL" data-vanity="gustavo-bento-teles-9093a42bb" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://br.linkedin.com/in/gustavo-bento-teles-9093a42bb?trk=profile-badge"</a></div>
               
 
 
