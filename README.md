@@ -6,14 +6,10 @@
 ![Gustavo GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=gruvbox)
 ![Gustavo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact)
 
-## Tecnologias que compreendo
-
-<div style="dsiplay: inline_block"><br/>
-    <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-
 ## Tecnologias que tenho um bom entendimento
 
 <div style="dsiplay: inline_block"><br/>
+     <img aling="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
      <img aling="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
      <img aling="center" alt="sqlite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
 </div><br/>
