@@ -6,7 +6,7 @@
 ---
 
 ### 🧑‍💻 **Sobre Mim**  
-- 🚀 Apaixonado por **computação** e **engenharia da computação**.  
+- 💡 Sempre em busca de aprender mais sobre **computação** e novas tecnologias. 
 - 🐍 Tenho uma boa base em **Python** e **bancos de dados** como **SQLite** e **MySQL**.  
 - 🐧 Uso **Kubuntu** e sou bem familiarizado com distribuições Linux.  
 - 📘 Atualmente estudando **C** e aprofundando meu conhecimento em tecnologias back-end.  
