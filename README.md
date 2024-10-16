@@ -1,12 +1,11 @@
 # 👋 Olá! Eu sou o **Gustavo Bento** 🖐️  
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.mtl_s/)  
 ![Profile Views](https://komarev.com/ghpvc/?username=gustavo-bento-teles&color=green&style=flat-square)
 
 ---
 
 ### 🧑‍💻 **Sobre Mim**  
-- 💡 Sempre em busca de aprender mais sobre **computação** e novas tecnologias. 
+- 💡 Sempre em busca de aprender mais sobre **computação** e novas tecnologias.  
 - 🐍 Tenho uma boa base em **Python** e **bancos de dados** como **SQLite** e **MySQL**.  
 - 🐧 Uso **Kubuntu** e sou bem familiarizado com distribuições Linux.  
 - 📘 Atualmente estudando **C** e aprofundando meu conhecimento em tecnologias back-end.  
@@ -48,3 +47,12 @@
      <img alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
      <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
+
+---
+
+## 📬 **Contatos**  
+
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavobento312@hotmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobentoteles379@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bento-teles-9093a42bb?trk=contact-info)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus.mtl_s/)
