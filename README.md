@@ -6,7 +6,7 @@
 
 ### 🧑‍💻 **Sobre Mim**  
 - 💡 Sempre em busca de aprender mais sobre **computação** e novas tecnologias.  
-- 🐍 Tenho uma boa base em **Python** e **bancos de dados** como **SQLite** e **MySQL**.  
+- 🐍 Tenho uma boa base em **Python** e **bancos de dados** como **SQLite**, **MySQL** e **MongoDB**.  
 - 🐧 Uso **Kubuntu** e sou bem familiarizado com distribuições Linux.  
 - 📘 Atualmente estudando e aprofundando meu conhecimento em **tecnologias back-end**.  
 
