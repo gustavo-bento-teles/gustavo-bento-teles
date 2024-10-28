@@ -10,6 +10,15 @@
 - 🐧 Uso **Kubuntu** e sou bem familiarizado com distribuições Linux.  
 - 📘 Atualmente estudando e aprofundando meu conhecimento em **tecnologias back-end**.  
 
+### Conhecimento sobre:
+<div display: flex>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="60" height="60"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="60" height="60"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="60" height="60"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
+</div>
+
 ---
 
 ### 📊 **Minhas Estatísticas**  
@@ -18,26 +27,6 @@
 </div>
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact&theme=gruvbox" alt="Gustavo Top Langs" />
-</div>
-
----
-
-### 🛠️ **Tecnologias com Bom Entendimento**  
-<div align="center"><br/>
-     <img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-     <img alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-     <img alt="sqlite" src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white">
-     <img alt="kubuntu" src="https://img.shields.io/badge/KUbuntu-0079C1?style=for-the-badge&logo=kubuntu&logoColor=white">
-</div>
-
----
-
-### 🚀 **Tecnologias com Breve Entendimento**  
-<div align="center"><br/>
-     <img alt="flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-     <img alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-     <img alt="c" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
-     <img alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
 
 ---
