@@ -5,10 +5,9 @@
 ---
 
 ### 🧑‍💻 **Sobre Mim**  
-- 💡 Sempre em busca de aprender mais sobre **computação** e novas tecnologias.  
-- 🐍 Tenho uma base sólida em **[Python](https://www.python.org)** e conhecimentos em **bancos de dados** como **MySQL**, **MongoDB** e **SQLite**.  
-- 📱 Focado atualmente no desenvolvimento com **[Flutter](https://flutter.dev)** para criar aplicativos móveis multiplataforma.  
-- 🐧 Uso **[Kubuntu](https://kubuntu.org)** e sou bem familiarizado com distribuições Linux.  
+- 🐍 Tenho uma boa base em **[Python](https://www.python.org)** e conhecimento em **bancos de dados** como **MySQL**, **MongoDB** e **SQLite**.
+- 📱 Focado atualmente no desenvolvimento com **[Flutter](https://flutter.dev)** para criar aplicativos mobile.  
+- 🐧 Uso **[Kubuntu](https://kubuntu.org)** como sistema operacional principal e tenho boa experiência com o mesmo.
 
 ---
 
