@@ -20,6 +20,12 @@
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="60" height="60"/>
 </div>
 
+### Breve conhecimento sobre:
+<div display: flex>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="60" height="60"/>
+</div>
+
 ---
 
 ### 📊 **Minhas Estatísticas**  
