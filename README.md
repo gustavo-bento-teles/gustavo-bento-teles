@@ -1,5 +1,7 @@
 # 👋 Olá! Eu sou o **Gustavo Bento** 🖐️  
 
+**[Portifólio](https://gustavo-bento-teles.github.io/portifolio/)**
+
 ![Profile Views](https://komarev.com/ghpvc/?username=gustavo-bento-teles&color=green&style=flat-square)
 
 ---
@@ -33,11 +35,3 @@
 <div align="center">
      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact&theme=gruvbox" alt="Gustavo Top Langs" />
 </div>
-
----
-
-### 📬 **Contatos**  
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:gustavobento312@hotmail.com)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gustavobentoteles379@gmail.com)  
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-bento-teles-9093a42bb?trk=contact-info)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/gus_bento.tls/)
