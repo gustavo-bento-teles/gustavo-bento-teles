@@ -13,14 +13,10 @@
 
 ---
 
-### Conhecimento sobre:
+### Experiência com:
 <div display: flex>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=60 height=60/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width=60 height=60/>
-</div>
-
-### Breve conhecimento sobre:
-<div display: flex>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width=60 height=60/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width=60 height=60/>
      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width=60 height=60/>
