@@ -1,33 +1,52 @@
-# 👋 Olá! Eu sou o **Gustavo Bento** 🖐️  
+<h1 align="center">👋 Olá, eu sou o Gustavo Bento</h1>
 
-**[Portifólio](https://gustavo-bento-teles.github.io/portifolio/)**
+<p align="center">
+  🔗 <a href="https://gustavo-bento-teles.github.io/portifolio/" target="portifolio"><b>🌐 Acesse meu Portfólio</b></a>
+</p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=gustavo-bento-teles&color=green&style=flat-square)
+## 💼 Perfil Profissional
 
----
-
-### 🧑‍💻 **Sobre Mim**
-- 💻 Sempre buscando aprender mais sobre novas **tecnologias** e conceitos envolvendo **computação** e **programação**.
-- 🐍 Tenho uma boa base em **[Python](https://www.python.org)** e conhecimento em **bancos de dados** como **MySQL**, **MongoDB** e **SQLite**. 
-- 🐧 Uso **[Arch Linux](https://archlinux.org/)** como sistema operacional principal e tenho boa experiência com o mesmo.
-
----
-
-### Experiência com:
-<div display: flex>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width=60 height=60/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width=60 height=60/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width=60 height=60/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width=60 height=60/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width=60 height=60/>
-</div>
+- 💻 Desenvolvedor focado em **Back-end**, **Sistemas de Baixo Nível** e **Linux**  
+- 🤖 Estudando **Inteligência Artificial** e **Ciência de Dados**  
+- 🎓 Estudante Técnico em **Desenvolvimento de Sistemas**
 
 ---
 
-### 📊 **Minhas Estatísticas**  
-<div align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=gruvbox" alt="Gustavo GitHub stats">
-</div>
-<div align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact&theme=gruvbox" alt="Gustavo Top Langs" />
-</div>
+## 🚀 Habilidades
+
+Aqui estão algumas das linguagens, tecnologias e ferramentas que utilizo no meu dia a dia 👇  
+
+### 👨‍💻 Linguagens
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)
+
+### 🧰 Frameworks e Bibliotecas
+[![My Skills](https://skillicons.dev/icons?i=flask,sklearn)](https://skillicons.dev)
+
+### 🗄️ Bancos de Dados
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
+
+### ⚙️ Ferramentas e Ambientes
+[![My Skills](https://skillicons.dev/icons?i=linux,vscode,arduino,git,github)](https://skillicons.dev)
+
+---
+
+## 🔬 Outras Experiências
+
+- Desenvolvimento de jogos 2D com **Godot Engine**  
+- Projetos embarcados utilizando **Arduino e ESP8266 (C/C++)**
+
+---
+
+## 📊 Estatísticas do GitHub
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Gustavo Bento GitHub Stats" />
+</p>
+<p align="center">
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact&theme=gruvbox" alt="Top Langs" />
+</p>
+
+---
+
+<p align="center">
+     <i>“Talk is cheap. Show me the code.” — Linus Torvalds</i>
+</p>
