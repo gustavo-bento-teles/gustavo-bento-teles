@@ -16,7 +16,6 @@
 - 🧠 Interesse em **arquitetura de software**, **performance**, **concorrência** e **engenharia de sistemas**
 - 🐧 Usuário de **Linux** como ambiente principal
 - 🎓 Estudante Técnico em **Desenvolvimento de Sistemas**
-- 🧱 Curto código simples, direto e bem estruturado
 
 ---
 
