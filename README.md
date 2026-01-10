@@ -1,52 +1,67 @@
 <h1 align="center">👋 Olá, eu sou o Gustavo Bento</h1>
 
 <p align="center">
-  🔗 <a href="https://gustavo-bento-teles.github.io/portifolio/" target="portifolio"><b>🌐 Acesse meu Portfólio</b></a>
+  Desenvolvedor focado em <b>Back-end com Go</b>, <b>Linux</b> e <b>sistemas</b>
 </p>
 
-## 💼 Perfil Profissional
-
-- 💻 Desenvolvedor focado em **Back-end**, **Sistemas de Baixo Nível** e **Linux**  
-- 🤖 Estudando **Inteligência Artificial** e **Ciência de Dados**  
-- 🎓 Estudante Técnico em **Desenvolvimento de Sistemas**
+<p align="center">
+  🔗 <a href="https://gustavo-bento-teles.github.io/portifolio/" target="portifolio"><b>🌐 Portfólio</b></a>
+</p>
 
 ---
 
-## 🚀 Habilidades
+## 💼 Sobre mim
 
-Aqui estão algumas das linguagens, tecnologias e ferramentas que utilizo no meu dia a dia 👇  
+- 💻 Desenvolvedor com foco em **Back-end**, utilizando principalmente **Go**
+- 🧠 Interesse em **arquitetura de software**, **performance**, **concorrência** e **engenharia de sistemas**
+- 🐧 Usuário de **Linux** como ambiente principal
+- 🎓 Estudante Técnico em **Desenvolvimento de Sistemas**
+- 🧱 Curto código simples, direto e bem estruturado
+
+---
+
+## 🚀 Tecnologias e Ferramentas
 
 ### 👨‍💻 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,python,cpp,c)](https://skillicons.dev)
 
-### 🧰 Frameworks e Bibliotecas
-[![My Skills](https://skillicons.dev/icons?i=flask,sklearn)](https://skillicons.dev)
+### 🧰 Back-end Go
+- **Gin** para APIs REST
+- Estudando os fundamentos do **net/http**
 
 ### 🗄️ Bancos de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
 
-### ⚙️ Ferramentas e Ambientes
-[![My Skills](https://skillicons.dev/icons?i=linux,vscode,arduino,git,github)](https://skillicons.dev)
+- Experiência com SQL e NoSQL
+- Integração backend → banco de dados
+
+### ⚙️ Ambiente e Ferramentas
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,arduino)](https://skillicons.dev)
+
+- Linux como ambiente principal
+- Git para versionamento
+- Projetos embarcados com Arduino / ESP8266 (C/C++)
 
 ---
 
 ## 🔬 Outras Experiências
 
-- Desenvolvimento de jogos 2D com **Godot Engine**  
-- Projetos embarcados utilizando **Arduino e ESP8266 (C/C++)**
+- Desenvolvimento de jogos 2D com **Godot Engine**
+- Interesse em **baixo nível**, **C**, **arquitetura de computadores** e **sistemas operacionais**
 
 ---
 
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" alt="Gustavo Bento GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true" />
 </p>
+
 <p align="center">
-     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact&theme=gruvbox" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gustavo-bento-teles&layout=compact&theme=gruvbox" />
 </p>
 
 ---
 
 <p align="center">
-     <i>“Talk is cheap. Show me the code.” — Linus Torvalds</i>
+  <i>“Talk is cheap. Show me the code.” — Linus Torvalds</i>
 </p>
