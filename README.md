@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Gustavo Bento</h1>
 
 <p align="center">
-  Desenvolvedor focado em <b>Back-end com Go</b>, <b>Linux</b> e <b>sistemas</b>
+  Desenvolvedor focado em <b>Back-end com Python</b> e <b>sistemas embarcados em C/C++</b>
 </p>
 
 <p align="center">
@@ -12,9 +12,10 @@
 
 ## 💼 Sobre mim
 
-- 💻 Desenvolvedor com foco em **Back-end**, utilizando principalmente **Go**
+- 💻 Desenvolvedor com foco em **Back-end utilizando Python**
 - 🧠 Interesse em **arquitetura de software**, **performance**, **concorrência** e **engenharia de sistemas**
 - 🐧 Usuário de **Linux** como ambiente principal
+- ⚙️ Estudando e desenvolvendo com **C e C++ para sistemas embarcados**
 - 🎓 Estudante Técnico em **Desenvolvimento de Sistemas**
 
 ---
@@ -22,11 +23,10 @@
 ## 🚀 Tecnologias e Ferramentas
 
 ### 👨‍💻 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=go,python,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)
 
-### 🧰 Back-end Go
-- **Gin** para APIs REST
-- Estudando os fundamentos do **net/http**
+- Python para desenvolvimento **Back-end**
+- C e C++ para **sistemas embarcados** e estudos de **baixo nível**
 
 ### 🗄️ Bancos de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
@@ -45,8 +45,8 @@
 
 ## 🔬 Outras Experiências
 
-- Desenvolvimento de jogos 2D com **Godot Engine**
-- Interesse em **baixo nível**, **C**, **arquitetura de computadores** e **sistemas operacionais**
+- Desenvolvimento de jogos 2D com Godot Engine
+- Interesse em **arquitetura de computadores**, **sistemas operacionais** e **engenharia de baixo nível**
 
 ---
 
