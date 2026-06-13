@@ -1,22 +1,19 @@
-<h1 align="center">👋 Olá, eu sou o Gustavo Bento</h1>
+<h1 align="center">Olá, eu sou o Gustavo Bento 👋</h1>
 
 <p align="center">
-  Desenvolvedor focado em <b>Back-end com Python</b> e <b>sistemas embarcados em C/C++</b>
-</p>
-
-<p align="center">
-  🔗 <a href="https://gustavo-bento-teles.github.io/portifolio/" target="portifolio"><b>🌐 Portfólio</b></a>
+  Desenvolvedor focado em Sistemas Embarcados e Computação de Baixo Nível, utilizando C/C++ e Python.
 </p>
 
 ---
 
 ## 💼 Sobre mim
 
-- 💻 Desenvolvedor com foco em **Back-end utilizando Python**
-- 🧠 Interesse em **arquitetura de software**, **performance**, **concorrência** e **engenharia de sistemas**
-- 🐧 Usuário de **Linux** como ambiente principal
-- ⚙️ Estudando e desenvolvendo com **C e C++ para sistemas embarcados**
-- 🎓 Estudante Técnico em **Desenvolvimento de Sistemas**
+- ⚙️ Desenvolvimento de firmware para microcontroladores utilizando C e C++
+- 🐧 Linux como ambiente principal de desenvolvimento
+- 💻 Conhecimento em Python para automação, ferramentas e desenvolvimento Back-end
+- 🧠 Interesse em arquitetura de computadores, sistemas operacionais e engenharia de sistemas
+- 🔬 Estudos em computação de baixo nível, performance e concorrência
+- 🎓 Estudante Técnico em Desenvolvimento de Sistemas
 
 ---
 
@@ -25,28 +22,26 @@
 ### 👨‍💻 Linguagens
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)
 
-- Python para desenvolvimento **Back-end**
-- C e C++ para **sistemas embarcados** e estudos de **baixo nível**
-
 ### 🗄️ Bancos de Dados
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
-
-- Experiência com SQL e NoSQL
-- Integração backend → banco de dados
 
 ### ⚙️ Ambiente e Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,arduino,neovim)](https://skillicons.dev)
 
-- Linux como ambiente principal
-- Git para versionamento
 - Projetos embarcados com Arduino / ESP8266 e ESP32 (C/C++)
 
 ---
 
-## 🔬 Outras Experiências
+## 🎯 Áreas de Interesse
 
-- Desenvolvimento de jogos 2D com Godot Engine
-- Interesse em **arquitetura de computadores**, **sistemas operacionais** e **engenharia de baixo nível**
+- Sistemas Embarcados
+- Firmware Development
+- Computação de Baixo Nível
+- Arquitetura de Computadores
+- Sistemas Operacionais
+- Linux
+- Python
+- Engenharia de Software
 
 ---
 
