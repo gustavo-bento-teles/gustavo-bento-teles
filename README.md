@@ -35,11 +35,11 @@
 - Integração backend → banco de dados
 
 ### ⚙️ Ambiente e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,arduino,neovim)](https://skillicons.dev)
 
 - Linux como ambiente principal
 - Git para versionamento
-- Projetos embarcados com Arduino / ESP8266 (C/C++)
+- Projetos embarcados com Arduino / ESP8266 e ESP32 (C/C++)
 
 ---
 
