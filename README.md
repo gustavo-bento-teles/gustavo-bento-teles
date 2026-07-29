@@ -1,51 +1,65 @@
 <h1 align="center">Olá, eu sou o Gustavo Bento 👋</h1>
 
 <p align="center">
-  Desenvolvedor focado em Sistemas Embarcados e Computação de Baixo Nível, utilizando C/C++ e Python.
+  Desenvolvedor em formação, com foco em Back-end utilizando C#/.NET e interesse em Sistemas Embarcados, Computação de Baixo Nível e Desenvolvimento Web.
 </p>
 
 ---
 
 ## 💼 Sobre mim
 
-- ⚙️ Desenvolvimento de firmware para microcontroladores utilizando C e C++
-- 🐧 Linux como ambiente principal de desenvolvimento
-- 💻 Conhecimento em Python para automação, ferramentas e desenvolvimento Back-end
-- 🧠 Interesse em arquitetura de computadores, sistemas operacionais e engenharia de sistemas
-- 🔬 Estudos em computação de baixo nível, performance e concorrência
-- 🎓 Estudante Técnico em Desenvolvimento de Sistemas
+* 💻 Estudando desenvolvimento Back-end com **C# e .NET**
+* 🌐 Aprendendo **React, HTML e Tailwind CSS** para desenvolvimento Front-end
+* ⚙️ Interesse em Sistemas Embarcados, Firmware e Computação de Baixo Nível
+* 🐧 Linux como ambiente principal de desenvolvimento
+* 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
+* 🎓 Estudante Técnico em Desenvolvimento de Sistemas
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-### 👨‍💻 Linguagens
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,c)](https://skillicons.dev)
+### 👨‍💻 Linguagens e Frameworks
+
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,tailwind,react,python,cpp,c)](https://skillicons.dev)
 
 ### 🗄️ Bancos de Dados
+
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
 
-### ⚙️ Ambiente e Ferramentas
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,arduino,neovim)](https://skillicons.dev)
+### ⚙️ Ferramentas e Ambiente
 
-- Projetos embarcados com Arduino / ESP8266 e ESP32 (C/C++)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,arduino,neovim)](https://skillicons.dev)
 
 ---
 
 ## 🎯 Áreas de Interesse
 
-- Sistemas Embarcados
-- Firmware Development
-- Computação de Baixo Nível
-- Arquitetura de Computadores
-- Sistemas Operacionais
-- Linux
-- Python
-- Engenharia de Software
+* Back-end com C#/.NET
+* Desenvolvimento Web
+* Sistemas Embarcados
+* Firmware Development
+* Computação de Baixo Nível
+* Arquitetura de Computadores
+* Sistemas Operacionais
+* Linux
+* Engenharia de Software
+
+---
+
+## 📚 Atualmente estudando
+
+* C# e .NET
+* React
+* Tailwind CSS
+* ASP.NET Core
+* Boas práticas de desenvolvimento de software
+* Estruturas de Dados e Algoritmos
 
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gustavo-bento-teles&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
 </p>
@@ -57,5 +71,5 @@
 ---
 
 <p align="center">
-  <i>“Talk is cheap. Show me the code.” — Linus Torvalds</i>
+  <i>"Talk is cheap. Show me the code." — Linus Torvalds</i>
 </p>
