@@ -12,7 +12,6 @@
 * 🌐 Aprendendo **React, HTML e Tailwind CSS** para desenvolvimento Front-end
 * ⚙️ Interesse em Sistemas Embarcados, Firmware e Computação de Baixo Nível
 * 🐧 Linux como ambiente principal de desenvolvimento
-* 📚 Sempre estudando novas tecnologias e boas práticas de desenvolvimento
 * 🎓 Estudante Técnico em Desenvolvimento de Sistemas
 
 ---
