@@ -1,59 +1,62 @@
 <h1 align="center">Olá, eu sou o Gustavo Bento 👋</h1>
 
 <p align="center">
-  Desenvolvedor em formação, com foco em Back-end utilizando C#/.NET e interesse em Sistemas Embarcados, Computação de Baixo Nível e Desenvolvimento Web.
+  Desenvolvedor em formação, atualmente focado em Back-end com C#/.NET.
 </p>
 
 ---
 
-## 💼 Sobre mim
+## 💻 Sobre mim
 
-* 💻 Estudando desenvolvimento Back-end com **C# e .NET**
-* 🌐 Aprendendo **React, HTML e Tailwind CSS** para desenvolvimento Front-end
-* ⚙️ Interesse em Sistemas Embarcados, Firmware e Computação de Baixo Nível
-* 🐧 Linux como ambiente principal de desenvolvimento
-* 🎓 Estudante Técnico em Desenvolvimento de Sistemas
+* 💻 Estudando **C# e .NET** para desenvolvimento Back-end
+* 🐍 Já tenho conhecimento em **Python para Back-end**
+* 🌐 Estudando **React, HTML, CSS e Tailwind CSS**
+* ⚙️ Tenho interesse em **Sistemas Embarcados, Firmware e Computação de Baixo Nível**
+* 🐧 Uso **Linux** como ambiente principal
+* 🎓 Estudante Técnico em **Desenvolvimento de Sistemas**
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## 🚀 Tecnologias
 
-### 👨‍💻 Linguagens e Frameworks
+### Linguagens e Frameworks
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,html,css,tailwind,react,python,cpp,c)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,python,cpp,c,html,css,tailwind,react)](https://skillicons.dev)
 
-### 🗄️ Bancos de Dados
+### Banco de Dados
 
 [![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,sqlite)](https://skillicons.dev)
 
-### ⚙️ Ferramentas e Ambiente
+### Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,arduino,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,git,github,vscode,neovim,arduino)](https://skillicons.dev)
 
 ---
 
-## 🎯 Áreas de Interesse
+## 🎯 Tenho interesse em
 
-* Back-end com C#/.NET
+* Back-end
+* C# / .NET
+* Python
 * Desenvolvimento Web
 * Sistemas Embarcados
-* Firmware Development
+* Firmware
 * Computação de Baixo Nível
 * Arquitetura de Computadores
 * Sistemas Operacionais
 * Linux
-* Engenharia de Software
 
 ---
 
-## 📚 Atualmente estudando
+## 📚 Estudando atualmente
 
-* C# e .NET
+* C#
+* .NET
+* ASP.NET Core
+* APIs REST
 * React
 * Tailwind CSS
-* ASP.NET Core
-* Boas práticas de desenvolvimento de software
-* Estruturas de Dados e Algoritmos
+* Boas práticas de desenvolvimento
 
 ---
 
