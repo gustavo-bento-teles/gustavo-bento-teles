@@ -4,6 +4,10 @@
   Desenvolvedor em formação, atualmente focado em Back-end com C#/.NET.
 </p>
 
+<p align="center">
+  🚀 <a href="https://gustavo-bento-portfolio.vercel.app/" target="_blank"><strong>Meu Portfólio</strong></a>
+</p>
+
 ---
 
 ## 💻 Sobre mim
